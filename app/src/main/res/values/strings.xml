@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Car rental agency</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_id">Email ID</string>
+    <string name="first_name">First Name</string>
+    <string name="password">password</string>
+    <string name="ok">OK</string>
+    <string name="last_name">Last Name</string>
+    <string name="hello_world">hello</string>
+</resources>

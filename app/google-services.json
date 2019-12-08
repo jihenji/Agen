@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333765586614",
+    "firebase_url": "https://persistance-des-donnes-avec-sq.firebaseio.com",
+    "project_id": "persistance-des-donnes-avec-sq",
+    "storage_bucket": "persistance-des-donnes-avec-sq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333765586614:android:c49d69894aab3c2cf48017",
+        "android_client_info": {
+          "package_name": "com.example.persistancedesdonnesavecsqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333765586614-ossa6k9i227sgih80eogh5uajkg4bi5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.persistancedesdonnesavecsqlite",
+            "certificate_hash": "a020240f66ca030a09f425e941e38d92cd7a4a54"
+          }
+        },
+        {
+          "client_id": "333765586614-ukqhjtre0366gngk9q0j5o93d5qf5dj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGY4EGEtptR_xo5kA1u7AK6_avPnRZTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333765586614-ukqhjtre0366gngk9q0j5o93d5qf5dj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

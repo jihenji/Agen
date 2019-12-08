@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string name="app_name">agence de voiture</string>
+        <string name="sign_up">enregistrer</string>
+        <string name="email_id">email</string>
+        <string name="first_name">nom</string>
+        <string name="password">mot de passe</string>
+        <string name="ok">OK</string>
+        <string name="last_name">prenom</string>
+    </resources>
